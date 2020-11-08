@@ -30,6 +30,14 @@
 
 ▶️ [In depth Tutorial - Virtual Production with Unreal Engine and HTC Vive](https://www.youtube.com/watch?v=XWQZNw9iMNs)
 
+## 🔗 Other broadcast awesome-lists
+
+[awesome-ndi](https://github.com/florisporro/awesome-ndi)
+
+[awesome-srt](https://github.com/florisporro/awesome-srt)
+
+[awesome-xr-broadcast](https://github.com/florisporro/awesome-xr-broadcast)
+
 ## Contribute
 
 Feel free to submit a pull-request or issue to get your software on this list.
