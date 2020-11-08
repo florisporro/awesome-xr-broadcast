@@ -7,36 +7,42 @@
 ## 🎛️ Unreal Engine resources
 
 ![Price free](https://img.shields.io/badge/price-opensource-brightgreen) [Doghut Virtual Camera rig for Unreal](https://www.doghut.de/virtual-camera/)
-
-![Price paid](https://img.shields.io/badge/price-€76-red) [Cinetracer - cinematography sandbox for Unreal Engine](https://www.cinetracer.com/)
+<br />![Price paid](https://img.shields.io/badge/price-€76-red) [Cinetracer - cinematography sandbox for Unreal Engine](https://www.cinetracer.com/)
 
 ## 📦 xR Software Suites
 
 ![Price paid](https://img.shields.io/badge/price-paid-red) [Aximmetry - fully featured virtual environment production system](https://aximmetry.com/)
+![Price paid](https://img.shields.io/badge/price-paid-red) [Zero Density - fully featured virtual environment production system - integrates with Unreal engine](https://aximmetry.com/)
 
 ## 🏙️ 3D Assets
 
 ![Price paid](https://img.shields.io/badge/price-paid-red) [Marketplace for Unreal 3D Virtual studios](https://stockeds.com/shop/)
 
+## 📍 Hardware Camera Tracking Systems
+
+![Price paid](https://img.shields.io/badge/price-paid-red) [VioTrack](https://www.trackmen.de)
+<br />![Price paid](https://img.shields.io/badge/price-paid-red) [Mo-Sys](https://www.mo-sys.com/)
+<br />![Price paid](https://img.shields.io/badge/price-paid-red) [OptiTrack](https://optitrack.com/)
+<br />![Price paid](https://img.shields.io/badge/price-paid-red) [stYpe](https://stype.tv/)
+<br />![Price paid](https://img.shields.io/badge/price-paid-red) [Lightcraft](http://www.lightcrafttech.com/.../real-time-camera-tracking/)
+
 ## 📚 Learning
 
 ▶️ [Breakdown / overview video of various Xr techniques and applications](https://www.youtube.com/watch?v=-EGlAIjLF_M)
+<br />▶️ [Setting up DMX integration in Unreal](https://www.youtube.com/watch?v=JE8I7Izo6Jo)
+<br />▶️ [Keying in Unreal - quick overview](https://www.youtube.com/watch?v=j8YdN7zjvsA)
+<br />▶️ [Keying in Unreal - in-depth tutorial](https://www.youtube.com/watch?v=aGN4I9ias6g)
+<br />▶️ [In depth Tutorial - Virtual Production with Unreal Engine and HTC Vive](https://www.youtube.com/watch?v=XWQZNw9iMNs)
 
-▶️ [Setting up DMX integration in Unreal](https://www.youtube.com/watch?v=JE8I7Izo6Jo)
+## 🌍 Communities
 
-▶️ [Keying in Unreal - quick overview](https://www.youtube.com/watch?v=j8YdN7zjvsA)
-
-▶️ [Keying in Unreal - in-depth tutorial](https://www.youtube.com/watch?v=aGN4I9ias6g)
-
-▶️ [In depth Tutorial - Virtual Production with Unreal Engine and HTC Vive](https://www.youtube.com/watch?v=XWQZNw9iMNs)
+[Unreal Engine: Virtual Production Facebook Group](https://www.facebook.com/groups/virtualproduction)
 
 ## 🔗 Other broadcast awesome-lists
 
-[awesome-ndi](https://github.com/florisporro/awesome-ndi)
-
-[awesome-srt](https://github.com/florisporro/awesome-srt)
-
-[awesome-xr-broadcast](https://github.com/florisporro/awesome-xr-broadcast)
+🔗 [awesome-ndi](https://github.com/florisporro/awesome-ndi)
+<br />🔗 [awesome-srt](https://github.com/florisporro/awesome-srt)
+<br />🔗 [awesome-xr-broadcast](https://github.com/florisporro/awesome-xr-broadcast)
 
 ## Contribute
 
