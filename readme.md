@@ -12,7 +12,7 @@
 ## 📦 xR Software Suites
 
 ![Price paid](https://img.shields.io/badge/price-paid-red) [Aximmetry - fully featured virtual environment production system](https://aximmetry.com/)
-![Price paid](https://img.shields.io/badge/price-paid-red) [Zero Density - fully featured virtual environment production system - integrates with Unreal engine](https://aximmetry.com/)
+<br />![Price paid](https://img.shields.io/badge/price-paid-red) [Zero Density - fully featured virtual environment production system - integrates with Unreal engine](https://aximmetry.com/)
 
 ## 🏙️ 3D Assets
 
