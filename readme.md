@@ -7,6 +7,7 @@
 ## 🎛️ Unreal Engine resources
 
 ![Price free](https://img.shields.io/badge/price-opensource-brightgreen) [Doghut Virtual Camera rig for Unreal](https://www.doghut.de/virtual-camera/)
+<br />![Price free](https://img.shields.io/badge/price-free-brightgreen) [Unreal-SPOUT-OBS plugin](https://www.unrealengine.com/marketplace/en-US/product/92307b570d474fbc87592b973ce82e3b)
 <br />![Price paid](https://img.shields.io/badge/price-€76-red) [Cinetracer - cinematography sandbox for Unreal Engine](https://www.cinetracer.com/)
 
 ## 📦 xR Software Suites
@@ -37,6 +38,7 @@
 ## 🌍 Communities
 
 [Unreal Engine: Virtual Production Facebook Group](https://www.facebook.com/groups/virtualproduction)
+[OffWorldLive Discord](https://discord.gg/K4rXRWP)
 
 ## 🔗 Other broadcast awesome-lists
 
