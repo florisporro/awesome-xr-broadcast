@@ -34,6 +34,7 @@
 <br />▶️ [Keying in Unreal - quick overview](https://www.youtube.com/watch?v=j8YdN7zjvsA)
 <br />▶️ [Keying in Unreal - in-depth tutorial](https://www.youtube.com/watch?v=aGN4I9ias6g)
 <br />▶️ [In depth Tutorial - Virtual Production with Unreal Engine and HTC Vive](https://www.youtube.com/watch?v=XWQZNw9iMNs)
+<br />📖 [Medium post - Virtual Production: Exactly Where to Start](https://drewviehmann.medium.com/virtual-production-exactly-how-to-start-f73323c3b1d5)
 
 ## 🌍 Communities
 
